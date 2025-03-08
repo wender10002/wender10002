@@ -18,6 +18,3 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de cibersegurança, estudan
 <img src="https://skillicons.dev/icons?i=python,cpp,lua,vscode,linux&theme=dark" alt="Tech Stack" />
 
 ---
-<a href="https://discord.com/users/1342287488173211690" rel="nofollow">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
