@@ -1,9 +1,8 @@
 
-<p align="center">
+<h1 align="center">
 <strong>wender10002</strong>
-</p>
+</h1>
 
----
 <p align="center">
 <strong>Recomeçando na programação</strong>
 </p>
