@@ -1,20 +1,15 @@
+
 <p align="center">
-  <img src="https://github.com/wender10002.png" width="150" style="border-radius: 50%;" />
+<strong>wender10002</strong>
 </p>
 
-### Olá! Eu sou wender 👋
-
-Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de cibersegurança, estudante e desenvolvedor iniciante com interesse em Python, C++ e Lua. Estou sempre buscando aprender mais e contribuir com projetos de código aberto.
+---
+<p align="center">
+<strong>Recomeçando na programação</strong>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,lua,python,vscode,linux&theme=dark" alt="Tech Stack" />
+</p>
 
 ---
-
-### 📚 Sobre mim
-- 🎓 Atualmente focado em python;
-- 🔧 Explorando o mundo da cibersegurança e desenvolvimento;
-
----
-
-### 💻 Linguagens e Tecnologias
-<img src="https://skillicons.dev/icons?i=python,cpp,lua,vscode,linux&theme=dark" alt="Tech Stack" />
-
----
+dc: @ opps112.
