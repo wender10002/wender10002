@@ -7,7 +7,7 @@
 <strong>Recomeçando na programação</strong>
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,lua,python,vscode,linux&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mint&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
