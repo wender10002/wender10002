@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<strong>Recomeçando na programação</strong>
+<strong>programmer</strong>
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" alt="Tech Stack" />
